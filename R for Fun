@@ -1,0 +1,5 @@
+# R for Fun
+
+
+install.packages("Fun")
+
